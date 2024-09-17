@@ -2,7 +2,7 @@ package simplexamples
 
 import org.apache.spark.sql.SparkSession
 
-object finaltest {
+object finaltest  {
 
   def main(args: Array[String]): Unit = {
 
